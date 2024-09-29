@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am an experienced web developer with over 5 years in PHP, Python, and data analytics. Driven by a passion for overcoming challenges and a commitment to continuous learning, I seek growth opportunities to stay at the forefront of technology. My goals include enhancing problem-solving skills to create innovative, user-centric web solutions and mastering emerging technologies to optimize website performance. I value effective collaboration and communication, aiming to improve user experience through seamless design and functionality. My professional development involves participating in coding challenges, engaging with industry communities, and drawing inspiration from diverse perspectives. With a proactive mindset and dedication to continuous improvement, I am prepared to navigate the evolving landscape of web development and make meaningful contributions.
 
 <!--
 **dmaon/dmaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
